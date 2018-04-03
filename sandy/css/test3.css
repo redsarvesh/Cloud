@@ -1,0 +1,222 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	margin:0px;
+
+}
+
+#topbar
+{
+	background-color:#363636;
+	height:70px;	
+}
+#topbar #heading
+{
+	font-family:verdana;
+	color:white;
+	font-size:40px;
+	padding:10px 0px 0px 500px;
+}
+
+#topbar #head
+{
+	color:white;
+	width:100px;
+	padding:15px 20px 5px 0px;
+	text-align:center;
+	float:left;
+	font-family:verdana;
+}
+#topbar #head a
+{
+  text-decoration:none;	
+  color:white;
+}
+#topbar #head a:hover
+{
+	color:#e24f0f;
+}
+#topbar img
+{
+	
+	float:left;
+	padding:0px;
+}
+
+#topbar #head2 ul
+{
+	list-style:None;
+	float:left;
+}
+#topbar #head2 li
+{
+	
+	float:left;
+	color:white;
+	padding:13px 50px;
+	font-family:verdana;
+}
+#topbar #head2 li:hover
+{
+	color:#e24f0f;
+}
+#topbar #head3
+{
+	margin:0px;
+	float:right;
+	padding:-20px;
+	
+}
+#topbar #head3 ul
+{
+	margin:0px;
+}
+#topbar #head ul li a
+{
+	font-color:white;
+}
+#head2 ul li
+{
+	line-height:20px;
+	text-align:center;
+	float:left;
+	position:relative;
+	
+	font-family:verdana;
+}
+#head2 ul ul
+{
+	position:absolute;
+}
+
+
+#menu ul
+{
+  
+  list-style:none;
+  float:left;
+  margin-right:50px;
+  margin-top:0px;
+  padding: 15px 0px 20px 50px;
+  
+}
+#menu ul li
+{
+	background-color:#363636;
+	border:1px solid white;
+	
+	width:150px;
+	height:35px;
+	line-height:35px;
+	text-align:center;
+	float:left;
+	position:relative;
+	
+	font-family:verdana;
+}
+#menu ul li a
+{
+	text-decoration:none;
+	color:white;
+	display:block;
+	
+}
+#menu ul li a:hover
+{
+	background-color:#ffe500;
+	
+	color:black;
+	
+}
+#menu ul ul
+{
+	position:absolute;
+	display:none;
+	width:150px;
+	color:white;
+	padding:0px;
+}
+#menu ul ul li
+{
+	background-color:#626d65;
+	color:white;
+	text-align:center;
+	padding-left:0px;
+}
+#menu ul li:hover > ul
+{
+	display:block;
+	background-color:#e6efe8;
+}
+#menu ul ul ul
+{
+	margin-left:200px;
+	top:0px;
+	display:block;
+}
+ #head4
+{
+	padding-right:50px;
+}
+#social
+{
+	background-color:black;
+	font-family:verdana;
+	color:white;
+	padding:20px;
+	
+}
+#social ul
+{
+	list-style:none;
+	padding-left: 478px;
+}
+#social li
+{
+	float:left;
+	padding-left:40px;
+}
+#social li i
+{
+	font-size:20px;
+	color:white;
+	border:1px black;
+}
+#footer
+{
+	background-color:black;
+	color:white;
+	font-family:verdana;
+	padding:20px;
+	text-align:center;
+}
+#content
+{
+	height:500px;
+	background-color:white;
+}
+#content table
+{
+     margin:30px 400px;
+}
+#content table td
+{
+	padding:100px;
+	font-size:20px;
+	font-family:verdana;
+}
+#saas table
+{
+	margin:30px 400px;
+
+}
+#saas table td
+{
+	padding:50px;
+	font-size:20px;
+	font-family:verdana;
+}

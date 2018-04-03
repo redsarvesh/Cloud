@@ -1,0 +1,88 @@
+body {
+	background-color: #f7f7f7;
+	color: #666666;
+	font-family: helvetica;
+}
+.text-center {
+	text-align: center;
+}
+.text-left {
+	text-align: left;
+}
+.text-right {
+	text-align: right;
+}
+form label {
+	display: block;
+	font-weight: bold;
+	margin-bottom: 4px;
+}
+form .control {
+	margin-bottom: 10px;
+}
+.text-control {
+	display: block;
+	width: 97%;
+	padding: 8px 5px;
+	border: solid 1px #CCCCCC;
+}
+.btn {
+	border: none;
+	padding: 8px 15px;
+}
+.btn-blue {
+	background-color: #00abcd;
+	border: solid 1px #0087cd;
+	color: #ffffff;
+}
+.btn-yellow {
+	background-color: #ffc200;
+	border: solid 1px #ffc500;
+	color: #ffffff;
+}
+.btn-DBlue {
+	background-color: #423b3b;
+	border: solid 1px #ffc500;
+	color: white;
+	border:none;
+	border-radius:4px;
+}
+.error {
+	color: #990000;
+}
+#login-box {
+	width: 400px;
+	margin:100px auto;
+}
+#login-box img
+{
+	margin:15px 100px;
+}
+#login-wrapper {
+	width: 400px;
+	border: solid 1px #CCCCCC;
+	margin: 0px auto;
+	border-top: solid 5px #423b3b;
+	padding: 10px;
+	background-color: #ffffff;
+}
+#login-wrapper h2 {
+	font-size: 20px;
+	margin: 0px 0px 10px 0px;
+	border-bottom: solid 1px #CCCCCC;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
