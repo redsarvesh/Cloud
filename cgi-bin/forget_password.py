@@ -46,7 +46,8 @@ if flag==1:
 	# Authentication
 	s.login(sender_email_id, sender_email_id_password)
 	receiver_email_id=customer_email
-#	print receiver_email_id
+	
+#	sending mail to the receiver end
 	s.sendmail(sender_email_id, receiver_email_id, "Your new_password is "+new_password)
 
 	# message to be sent
