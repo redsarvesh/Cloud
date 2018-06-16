@@ -24,7 +24,7 @@ if  choice == "Webcam":
 	
 elif  choice == "Opera":
 
-	print "<META HTTP-EQUIV='refresh' content='0; url=/Firefox.sh'>"
+	print "<META HTTP-EQUIV='refresh' content='0; url=/Opera.sh'>"
 
 elif  choice == "Vlc":
 
